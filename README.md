@@ -17,10 +17,9 @@
 | Скобки               | 220.50.47   |
 | Строки               | 38.139.210  |
 | Число                | 203.75.22   |
-| Фон                  | 0.43.54     |
 
+![image](https://github.com/Live-AG/EDT_Preferances/assets/80624357/ac50a79a-21a1-493e-a037-8380560b0e88)
 
-![color_exemple](https://user-images.githubusercontent.com/80624357/127852920-c84378db-5d46-4276-abe4-019711ff4407.jpg). 
 Дополнительные плагины
 https://github.com/otymko/bslls-connector-for-edt
 Darkest Dark Theme with DevStyle
