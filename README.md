@@ -18,6 +18,9 @@
 | Строки               | 38.139.210  | 268BD2 |
 | Число                | 203.75.22   | CB4B16 |
 
+Фон: 47.47.47 (2F2F2F)
+Шрифр: Input Mono Narrow (regular), Легкий, 14
+
 ![image](https://github.com/Live-AG/EDT_Preferances/assets/80624357/ac50a79a-21a1-493e-a037-8380560b0e88)
 
 Дополнительные плагины
