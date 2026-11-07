@@ -20,6 +20,9 @@
 
 Фон: 47.47.47 (2F2F2F) 
 
+![Uploading image.png…]()
+
+
 Шрифр: Input Mono Narrow (regular), Легкий, 14
 
 ![image](https://github.com/Live-AG/EDT_Preferances/assets/80624357/ac50a79a-21a1-493e-a037-8380560b0e88)
